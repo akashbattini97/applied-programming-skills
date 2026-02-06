@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akashbattini97/applied-programming-skills/tree/master/0075-sort-colors) |
+| [0219-contains-duplicate-ii](https://github.com/akashbattini97/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/akashbattini97/applied-programming-skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashbattini97/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akashbattini97/applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
@@ -69,4 +70,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/akashbattini97/applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akashbattini97/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/akashbattini97/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/akashbattini97/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
