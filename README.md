@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akashbattini97/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akashbattini97/applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/akashbattini97/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/akashbattini97/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/akashbattini97/applied-programming-skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashbattini97/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/akashbattini97/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/akashbattini97/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/akashbattini97/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/akashbattini97/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [2418-sort-the-people](https://github.com/akashbattini97/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/akashbattini97/applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akashbattini97/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [2418-sort-the-people](https://github.com/akashbattini97/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
 | ------- |
