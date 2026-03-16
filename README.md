@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akashbattini97/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/akashbattini97/applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -133,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/akashbattini97/applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/akashbattini97/applied-programming-skills/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/akashbattini97/applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Design
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/akashbattini97/applied-programming-skills/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/akashbattini97/applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
