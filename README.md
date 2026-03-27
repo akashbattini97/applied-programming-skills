@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/akashbattini97/applied-programming-skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashbattini97/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2418-sort-the-people](https://github.com/akashbattini97/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/akashbattini97/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/akashbattini97/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/akashbattini97/applied-programming-skills/tree/master/0705-design-hashset) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/akashbattini97/applied-programming-skills/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/akashbattini97/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
@@ -177,21 +179,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akashbattini97/applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akashbattini97/applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0101-symmetric-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akashbattini97/applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akashbattini97/applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
